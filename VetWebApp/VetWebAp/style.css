@@ -1,0 +1,54 @@
+﻿.addButton {
+    background-color: #57c40a;
+    border-width: 0 !important;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+.addButton:hover {
+    background-color: #4dad09;
+}
+
+.saveButton, .cancelButton {
+    background-color: #0095ff;
+    border: 1px solid #07c;
+    box-shadow: inherit 0 1px 0 #66bfff;
+    padding: 10px;
+    margin: 10px;
+    color: #ffffff;
+    border-radius: 2px;
+}
+
+.saveButton:hover, .cancelButton:hover {
+    background-color: #07c;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px !important;
+    text-decoration: none;
+}
+
+.menu li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.menu a:active {
+    background-color: #4CAF50;
+}

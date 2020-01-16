@@ -1,0 +1,68 @@
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\ApplicationInsights.config
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\csc.exe
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\vbc.exe
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\VetWebAp.dll.config
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\VetWebAp.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\VetWebAp.pdb
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.Web.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.Web.xml
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\obj\Debug\VetWebAp.dll
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\obj\Debug\VetWebAp.pdb
+C:\Users\Robie\TAFE\Cert IV Programming\Advanced ASP\Week 13\VetWebAp\VetWebAp\obj\Debug\VetWebApp.csprojResolveAssemblyReference.cache
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\ApplicationInsights.config
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\csc.exe
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\System.Collections.Immutable.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\vbc.exe
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\VBCSCompiler.exe
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\roslyn\VBCSCompiler.exe.config
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\VetWebAp.dll.config
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\VetWebAp.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\VetWebAp.pdb
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.Web.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.WindowsServer.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.ApplicationInsights.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.Web.xml
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.AI.WindowsServer.xml
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.ApplicationInsights.xml
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\obj\Debug\VetWebApp.csprojResolveAssemblyReference.cache
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\obj\Debug\VetWebAp.dll
+D:\Adv_ASP_2017\Semester_II\Students\Rob_A_VetWebAp\VetWebAp\VetWebAp\obj\Debug\VetWebAp.pdb
+K:\Py\Week6JamesNoonanAdv\VetWebApp\VetWebAp\obj\Debug\VetWebAp.dll
+K:\Py\Week6JamesNoonanAdv\VetWebApp\VetWebAp\obj\Debug\VetWebAp.pdb
